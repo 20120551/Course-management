@@ -1,0 +1,4 @@
+module.exports = {
+    COURSE_CHANGED: 'COURSE_CHANGED',
+    ACCOUNT_CHANGED: 'ACCOUNT_CHANGED',
+}
